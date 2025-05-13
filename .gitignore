@@ -5,7 +5,9 @@
 out/
 .DS_Store
 
-
+# Gradle
+.gradle/
+build/
 
 # Compiled class file
 *.class
