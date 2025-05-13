@@ -1,3 +1,12 @@
+# IntelliJ Idea
+*.iml
+.idea/
+.run/
+out/
+.DS_Store
+
+
+
 # Compiled class file
 *.class
 
